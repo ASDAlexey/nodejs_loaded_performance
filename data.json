@@ -1,0 +1,62 @@
+[
+    {
+        "data": {
+            "user": {
+                "synchronized": true,
+                "customerId": "18128480149",
+                "customerType": "customer_endkunde",
+                "title": "user_anrede_herr",
+                "firstName": "Alex",
+                "lastName": "Popov",
+                "email": "asdalexey10001@yanded.com",
+                "phone": "+498928972805",
+                "additionalPhones": [],
+                "street": "Petrovskaya 120",
+                "postalCode": "347900",
+                "city": "Taganrog",
+                "country": "Russia",
+                "createdAt": "2017-12-05T06:52:31.666Z",
+                "updatedAt": "2017-12-05T06:55:28.264Z"
+            },
+            "ticket": {
+                "synchronized": true,
+                "id": "35522",
+                "userId": "18128480149",
+                "crmMeta": "{\"id\":\"6961788586625058\",\"products\":[{\"synchronized\":false,\"id\":\"21400697\",\"name\":\"otoren Rohrmotor RolloTube Basis Small\",\"type\":\"RTBS 06/28Z\",\"category\":\"category_product_rohrmotoren\",\"tag\":\"21400697_rohrmotor_rollotube_basis_small_rtbs_06_28z\",\"description\":\"description test 1\",\"thumbnail\":\"http://cdn.newsapi.com.au/image/v1/ae0a6aa9b5e53c3a4158937fa0676dd4?width=1024\",\"link\":\"http://radech.vadev.net\",\"price\":100,\"entryId\":12345,\"featureType\":\"wishlist\",\"archived\":false,\"quantity\":2,\"children\":[{\"synchronized\":false,\"id\":\"11\",\"name\":\"otoren Rohrmotor RolloTube Basis Small\",\"type\":\"RTBS 06/28Z\",\"category\":\"category_product_rohrmotoren\",\"tag\":\"11_rohrmotor_rollotube_basis_small_rtbs_06_28z\",\"description\":\"description test 1\",\"thumbnail\":\"https://pbs.twimg.com/profile_images/463159491048259584/ew4jWZJC.jpeg\",\"link\":\"http://radech.vadev.net\",\"price\":100,\"entryId\":12345,\"featureType\":\"wishlist\",\"archived\":false,\"quantity\":2}]}],\"user\":{\"synchronized\":true,\"customerId\":\"18128480149\",\"customerType\":\"customer_endkunde\",\"title\":\"user_anrede_herr\",\"firstName\":\"Alex\",\"lastName\":\"Popov\",\"email\":\"asdalexey10001@yanded.com\",\"phone\":\"+498928972805\",\"additionalPhones\":[],\"street\":\"Petrovskaya 120\",\"postalCode\":\"347900\",\"city\":\"Taganrog\",\"country\":\"Russia\"},\"message\":\"ticket message\",\"newsletter\":true,\"adviseProduct\":true,\"partnerIds\":[],\"declinedIds\":[]}",
+                "createdAt": "2017-12-05T06:55:31.033Z"
+            },
+            "findedExternalPartners": []
+        },
+        "meta": null
+    },
+    {
+        "data": {
+            "user": {
+                "synchronized": true,
+                "customerId": "18128480149",
+                "customerType": "customer_endkunde",
+                "title": "user_anrede_herr",
+                "firstName": "Alex",
+                "lastName": "Popov",
+                "email": "asdalexey10001@yanded.com",
+                "phone": "+498928972805",
+                "additionalPhones": [],
+                "street": "Petrovskaya 120",
+                "postalCode": "347900",
+                "city": "Taganrog",
+                "country": "Russia",
+                "createdAt": "2017-12-05T06:52:31.666Z",
+                "updatedAt": "2017-12-05T06:55:28.172Z"
+            },
+            "ticket": {
+                "synchronized": true,
+                "id": "35521",
+                "userId": "18128480149",
+                "crmMeta": "{\"id\":\"6961788586821677\",\"products\":[{\"synchronized\":false,\"id\":\"21400697\",\"name\":\"otoren Rohrmotor RolloTube Basis Small\",\"type\":\"RTBS 06/28Z\",\"category\":\"category_product_rohrmotoren\",\"tag\":\"21400697_rohrmotor_rollotube_basis_small_rtbs_06_28z\",\"description\":\"description test 1\",\"thumbnail\":\"http://cdn.newsapi.com.au/image/v1/ae0a6aa9b5e53c3a4158937fa0676dd4?width=1024\",\"link\":\"http://radech.vadev.net\",\"price\":100,\"entryId\":12345,\"featureType\":\"wishlist\",\"archived\":false,\"quantity\":2,\"children\":[{\"synchronized\":false,\"id\":\"11\",\"name\":\"otoren Rohrmotor RolloTube Basis Small\",\"type\":\"RTBS 06/28Z\",\"category\":\"category_product_rohrmotoren\",\"tag\":\"11_rohrmotor_rollotube_basis_small_rtbs_06_28z\",\"description\":\"description test 1\",\"thumbnail\":\"https://pbs.twimg.com/profile_images/463159491048259584/ew4jWZJC.jpeg\",\"link\":\"http://radech.vadev.net\",\"price\":100,\"entryId\":12345,\"featureType\":\"wishlist\",\"archived\":false,\"quantity\":2}]}],\"user\":{\"synchronized\":true,\"customerId\":\"18128480149\",\"customerType\":\"customer_endkunde\",\"title\":\"user_anrede_herr\",\"firstName\":\"Alex\",\"lastName\":\"Popov\",\"email\":\"asdalexey10001@yanded.com\",\"phone\":\"+498928972805\",\"additionalPhones\":[],\"street\":\"Petrovskaya 120\",\"postalCode\":\"347900\",\"city\":\"Taganrog\",\"country\":\"Russia\"},\"message\":\"ticket message\",\"newsletter\":true,\"adviseProduct\":true,\"partnerIds\":[],\"declinedIds\":[]}",
+                "createdAt": "2017-12-05T06:55:30.675Z"
+            },
+            "findedExternalPartners": []
+        },
+        "meta": null
+    }
+]
